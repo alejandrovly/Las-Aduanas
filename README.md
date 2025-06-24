@@ -28,3 +28,6 @@ Se simuló el uso de Git mediante commits representativos de cada fase del proye
 - Christopher Schwarzenberg  
 - Diego Hidalgo  
 - Janet Huaylla  
+
+## Profesor
+- Erwin Aguilera  
