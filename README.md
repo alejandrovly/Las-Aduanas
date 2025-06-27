@@ -22,8 +22,14 @@ Incluye validaciones funcionales y no funcionales con casos simulados que evalú
 
 Se simuló el uso de Git mediante commits representativos de cada fase del proyecto. El detalle se encuentra en el informe técnico.
 
-## Autores
+## Autores 
 
+## Muckups dínamico
+
+	https://mockitt.com/proto/70BNtK4syca8kZKNmFoSv/sharing?view_mode=read_only
+
+
+## Equipo
 - Alejandro Larez  
 - Christopher Schwarzenberg  
 - Diego Hidalgo  
